@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact)
 
 <p align='center'><a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a><br></p>
