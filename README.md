@@ -3,7 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 
-![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true)
+![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&theme=highcontrast)
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, buefy -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact)
 
