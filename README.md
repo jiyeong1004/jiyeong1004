@@ -21,8 +21,8 @@
 <a href="" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white"/></a>
 
 ### Frameworks
-<a href="" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>
 
 <!--
 ### Design
@@ -48,8 +48,8 @@
 <a href="" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat-square&logo=apache&logoColor=white"/></a>
 
 ### Databases
-<a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 
 ### ML / DL
 <a href="" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" /></a>
