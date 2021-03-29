@@ -41,7 +41,7 @@
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a> -->
 
-### Hosting/SaaS
+### Hosting / SaaS
 <a href="" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase"/></a>
 
 ### Servers
@@ -51,7 +51,7 @@
 <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
 
-### ML/DL
+### ML / DL
 <a href="" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /></a>
 
