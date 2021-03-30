@@ -1,7 +1,8 @@
 <!--
 **jiyeong1004/jiyeong1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)
+<!--![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true)
 
