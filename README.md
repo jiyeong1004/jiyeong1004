@@ -2,6 +2,12 @@
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact)
 
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/></a>
+<a href="/LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg" alt="license" /></a>
+<a href="https://goreportcard.com/report/github.com/jiyeong1004/hit-counter"><img src="https://goreportcard.com/badge/github.com/jiyeong1004/hit-counter" alt="Go Report Card" /></a> 
+</p>
+
 <p align='center'><a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a><br></p>
 
 ### Programming Languages
