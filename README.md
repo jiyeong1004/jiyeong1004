@@ -2,7 +2,6 @@
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact)
 
-
 <p align='center'><a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a><br></p>
 
 ### Programming Languages
