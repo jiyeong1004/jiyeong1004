@@ -5,8 +5,6 @@
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100011407748472)](https://www.facebook.com/profile.php?id=100011407748472)
-[![Instagram Badge](https://img.shields.io/badge/instagram-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jiyoung_0i/)](https://www.instagram.com/jiyoung_0i/)
 <a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-square&logo=Tstory&logoColor=white"></a>
 
 <!-- <a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a> -->
@@ -32,17 +30,15 @@
 <a href="" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a> -->
 
 ### Version Control
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jiyeong1004)](https://github.com/jiyeong1004)
 <a href="" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/jiyeong1004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a>
 
-<!--
 ### Social
-<a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/jiyoung_0i/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100011407748472" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a>
+<!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a> -->
+<a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a> -->
 
 ### Hosting / SaaS
 <a href="" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase"/></a>
