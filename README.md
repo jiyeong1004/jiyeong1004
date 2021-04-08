@@ -2,9 +2,13 @@
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact&langs_count=81)
 
+<!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align='center'><a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a><br></p>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jiyeong1004)](https://github.com/jiyeong1004)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100011407748472)](https://www.facebook.com/profile.php?id=100011407748472)
+[![Instagram Badge](https://img.shields.io/badge/instagram-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jiyoung_0i/)](https://www.instagram.com/jiyoung_0i/)
+<a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ### Programming Languages
 <a href="" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/></a>
