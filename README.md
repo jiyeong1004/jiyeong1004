@@ -5,6 +5,7 @@
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### My blog
 <a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-square&logo=Tstory&logoColor=white"></a>
 
 <!-- <a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a> -->
