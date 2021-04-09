@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### My blog
-<a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-square&logo=Tstory&logoColor=white"></a>
+<a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-square&logoColor=white"></a>
 
 <!-- <a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a> -->
 
@@ -35,8 +35,8 @@
 <a href="https://github.com/jiyeong1004" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a>
 
 ### Social
-<a href="https://www.instagram.com/jiyoung_0i/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100011407748472" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/jiyoung_0i/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100011407748472" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-square&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a> -->
