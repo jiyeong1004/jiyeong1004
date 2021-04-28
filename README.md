@@ -7,7 +7,7 @@
 
 ### My blog
 <a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-square&logoColor=white"></a>
-
+<a href="https://blog.naver.com/codingjy1004"><img src="https://img.shields.io/badge/Naver Blog-ABF200?style=for-the-square&logo=Naver&logoColor=white"/></a>
 <!-- <a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a> -->
 
 ### Programming Languages
