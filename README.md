@@ -27,4 +27,4 @@
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
 
 ### 🌱 My Contributions
-![contributions](https://ghchart.rshah.org/jiyeong1004)
+![](https://ghchart.rshah.org/jiyeong1004)
