@@ -2,6 +2,7 @@
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact&langs_count=81)
 
+<!-- My Profile -->
 <!--<p align="center">-->
 <img width="200" alt="capture01" src="https://user-images.githubusercontent.com/51290739/124050200-07086c80-da55-11eb-940d-f36ad9527fdb.jpeg">
 <!--</p>-->
@@ -24,3 +25,7 @@
 <a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
+
+### 🌱 My Contributions
+
+![contributions](https://ghchart.rshah.org/jiyeong1004)
