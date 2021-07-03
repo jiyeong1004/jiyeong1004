@@ -12,7 +12,7 @@
 <a href="https://github.com/jiyeong1004/MyProfile"><img src="https://img.shields.io/badge/MyProfile-6CFFFF?style=for-the-square&logoColor=white"></a>
 
 ### 📚 My blog
-<a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-square&logoColor=white"></a>
+<a href="https://java-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=for-the-square&logo=dev.to&logoColor=white"></a>
 <a href="https://blog.naver.com/codingjy1004"><img src="https://img.shields.io/badge/Naver Blog-ABF200?style=for-the-square&logo=Naver&logoColor=white"/></a>
 <a href="https://velog.io/@jiyeong1004" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-square&logo=Vimeo&logoColor=white"/> </a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-square&logo=youtube&logoColor=white"></a> -->
