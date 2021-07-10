@@ -2,11 +2,6 @@
 ![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact&langs_count=81)
 
-<!-- My Profile -->
-<!--<p align="center">-->
-<img width="200" alt="capture01" src="https://user-images.githubusercontent.com/51290739/124050200-07086c80-da55-11eb-940d-f36ad9527fdb.jpeg">
-<!--</p>-->
-
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://github.com/jiyeong1004/MyProfile"><img src="https://img.shields.io/badge/MyProfile-6CFFFF?style=for-the-square&logoColor=white"></a>
