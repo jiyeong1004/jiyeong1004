@@ -17,8 +17,6 @@
 <a href="https://www.instagram.com/jiyoung_0i/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100011407748472" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.rocketpunch.com/@codingjy1004"><img src="https://img.shields.io/badge/Rocket Punch-6B66FF?style=for-the-square"></a>
-<a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
 
 
