@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)
-![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact&langs_count=81)
 
 <!-- 방문자 수 -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jiyeong1004)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://github.com/jiyeong1004/MyProfile"><img src="https://img.shields.io/badge/MyProfile-6CFFFF?style=for-the-square&logoColor=white"></a>
 
@@ -19,6 +20,7 @@
 <a href="https://www.rocketpunch.com/@codingjy1004"><img src="https://img.shields.io/badge/Rocket Punch-6B66FF?style=for-the-square"></a>
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
 
-
 ### 🌱 My Contributions
-![contributions](https://ghchart.rshah.org/jiyeong1004)
+<!-- ![contributions](https://ghchart.rshah.org/jiyeong1004) -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiyeong1004)
