@@ -26,6 +26,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jiyeong1004)
 
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiyeong1004)
