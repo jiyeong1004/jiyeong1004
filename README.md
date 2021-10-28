@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jiyoung%20Kim&fontSize=70&fontColor=FFFFFF&animation=twinkling)
-
-![GitHub metrics](https://metrics.lecoq.io/jiyeong1004)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact&langs_count=81)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeong1004&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong1004&layout=compact&langs_count=81)
 
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeong1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -24,6 +21,8 @@
 
 <!-- ### 🌱 My Contributions
 ![contributions](https://ghchart.rshah.org/jiyeong1004) -->
+
+![GitHub metrics](https://metrics.lecoq.io/jiyeong1004)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jiyeong1004)  
 
