@@ -18,11 +18,6 @@
 <a href="https://www.rocketpunch.com/@codingjy1004"><img src="https://img.shields.io/badge/Rocket Punch-6B66FF?style=for-the-square"></a>
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
 
-<!-- ### 🌱 My Contributions
-![contributions](https://ghchart.rshah.org/jiyeong1004) -->
-
-![GitHub metrics](https://metrics.lecoq.io/jiyeong1004)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jiyeong1004)  
+![GitHub metrics](https://metrics.lecoq.io/jiyeong1004)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiyeong1004)  
