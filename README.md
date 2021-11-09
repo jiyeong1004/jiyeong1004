@@ -17,5 +17,3 @@
 <a href="https://www.instagram.com/jiyoung_0i/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.rocketpunch.com/@codingjy1004"><img src="https://img.shields.io/badge/Rocket Punch-6B66FF?style=for-the-square"></a>
 <!-- <a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiyeong1004)  
